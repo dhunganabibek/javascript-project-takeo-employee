@@ -1,0 +1,29 @@
+.center {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.container {
+    margin: 20px auto;
+    min-height: 100vh;
+}
+
+body {
+    background-color: #F2F2F2;
+}
+
+.addButton {
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px 0px;
+}
+
+.removeEmployee {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.submitButtonDiv {
+    display: flex;
+    justify-content: center;
+}
